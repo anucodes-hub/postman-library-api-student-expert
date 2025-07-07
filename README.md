@@ -18,7 +18,7 @@ This repository contains my completed work for the **Postman API Fundamentals St
 
 ## 🏆 Badge
 
-[![Postman Student Expert Badge](https://badgr.com/public/assertions/Xj5I8imBRcW3YhavLAeBpA?identity__email=anushkakar06%40gmail.com))
+[![Postman Student Expert Badge]((https://badgr.com/public/assertions/Xj5I8imBRcW3YhavLAeBpA)))
 
 ---
 
