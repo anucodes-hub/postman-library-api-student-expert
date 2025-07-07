@@ -16,12 +16,6 @@ This repository contains my completed work for the **Postman API Fundamentals St
 
 - `Postman Library API v2.postman_collection.json` — Full request collection including Skill Check
 
-## 🏆 Badge
-
-[![Postman Student Expert Badge](https://api.badgr.io/public/assertions/Xj5I8imBRcW3YhavLAeBpA)
-
----
-
 ### 👀 Preview
 
 This collection allows you to:
